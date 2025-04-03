@@ -33,11 +33,11 @@ console.log(division);
 //challenge 1
 
 
-let a:
+let a;
 const pi =3.1416;
 let r=3;
 
-a=p* (r*r);
+a=pi* (r*r);
 
 console.log("the results is: "=a) ;
 
